@@ -20,6 +20,6 @@ Here are some of the technologies and tools I work with:
 
 ## Connect with Me
 
-- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/brandon-luis-meneses-solorzano/)
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/brandon-luis-meneses-solorzano/)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat. Happy coding! 🚀
