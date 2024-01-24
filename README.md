@@ -1,16 +1,25 @@
-### Hi there 👋
+# [Brandon Luis Meneses Solorzano]
 
-<!--
-**Brandon-Meneses/Brandon-Meneses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello there! Welcome to my GitHub profile. I'm [Brandon], a passionate [Systems Engineer] based in [Lima, Perú]. I love [improving my skills every day].
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Elements USA Adjusting. Inc].
+- 🌱 I’m always learning and exploring new technologies.
+- 👯 I’m looking to collaborate on [global projects].
+
+## Tech Stack
+
+Here are some of the technologies and tools I work with:
+
+- Java
+- PHP
+- Laravel
+
+
+
+## Connect with Me
+
+- [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/brandon-luis-meneses-solorzano/))
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat. Happy coding! 🚀
