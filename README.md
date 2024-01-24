@@ -1,12 +1,12 @@
-# [Brandon Luis Meneses Solorzano]
+# Brandon Luis Meneses Solorzano
 
 👋 Hello there! Welcome to my GitHub profile. I'm [Brandon], a passionate [Systems Engineer] based in [Lima, Perú]. I love [improving my skills every day].
 
 ## About Me
 
-- 🔭 I’m currently working on [Elements USA Adjusting. Inc].
+- 🔭 I’m currently working on Elements USA Adjusting. Inc.
 - 🌱 I’m always learning and exploring new technologies.
-- 👯 I’m looking to collaborate on [global projects].
+- 👯 I’m looking to collaborate on global projects.
 
 ## Tech Stack
 
